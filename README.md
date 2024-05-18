@@ -5,4 +5,8 @@
 -KCPE ,Amalemba Primary School , Kakamega
 ## Certifications
 -HUAWEI HCIA Data Communication 
-## Back Ground
+## Skills
+Mobile App Development - JavaScript (React Native )
+
+## Projects
+Kabianga Housing Project
